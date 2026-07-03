@@ -40,5 +40,5 @@ My core expertise is forged in high-scale environments, designing resilient appl
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_DO_GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasBelusso1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
